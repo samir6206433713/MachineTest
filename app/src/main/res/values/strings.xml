@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="app_viewpager">ViewPager Demo</string>
+    <string name="app_viewpager2">ViewPager2 Demo</string>
+
+    <string name="map_key" translatable="false">AIzaSyAebB2fJG7q5EdtassJtQ1hc5sLtB4jJNs</string>
+
+    <string name="btn_add_contact"><u>Father</u></string>
+    <string name="btn_add_contact2"><u>Mother</u></string>
+    <string name="btn_add_contact3"><u>Work</u></string>
+    <string name="error_message">Unable to fetch data . please try again</string>
+</resources>
